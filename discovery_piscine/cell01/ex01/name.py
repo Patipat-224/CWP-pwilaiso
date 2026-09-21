@@ -1,6 +1,6 @@
 first_name = "Patipat"
 last_name = "Wilaisoongnern"
 
-while_name = first_name + " " + last_name
+whole_name = first_name + " " + last_name
 
-print(while_name)
+print(whole_name)
